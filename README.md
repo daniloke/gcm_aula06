@@ -7,8 +7,8 @@ Ferramentas de controle de Versão:
 *CVS
 *Source safe
 *Bazaar
+*Clear Case
 *SVN
 *Mercurial
-*Clear Case
 *Git
 *Visual Studio Team Services
